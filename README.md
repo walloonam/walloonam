@@ -1,3 +1,7 @@
+# JaeHun LEEM
+> Future White hacker.
+> Interested in everything on the computer.
+
 
 ### Current Interests
 - computer security
