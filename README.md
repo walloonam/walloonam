@@ -3,7 +3,7 @@
 - computer security
 
 
-### purple_heart: Career
+### :purple_heart: Career
 
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
