@@ -4,8 +4,9 @@
 >
 
 ## 🖥️ Current Interests
-- computer security
-
+- Computer security
+- Assembly language
+- Web hacking
 
 ## 📜 Career
 
