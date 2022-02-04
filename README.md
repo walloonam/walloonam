@@ -18,4 +18,3 @@
 
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jh37106@gmail.com)](mailto:jh37106@gmail.com) 
--->
