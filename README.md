@@ -24,7 +24,7 @@
 ## Algorithm
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jh37106)](https://solved.ac/jh37106)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh37106)]
+![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh37106)
 
 
 ## :mailbox_with_mail: Contacts
