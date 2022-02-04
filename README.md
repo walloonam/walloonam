@@ -1,5 +1,6 @@
 # JaeHun LEEM
-> Future White hacker.
+> Future White hacker
+
 > Interested in everything on the computer.
 >
 
