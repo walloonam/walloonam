@@ -21,5 +21,8 @@
 ![HTML](https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellowgreen?style=plastic&logo=HTML5&logoColor=white)
 
 
+### Algorithm
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh37106)](https://solved.ac/jh37106)
+
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jh37106@gmail.com)](mailto:jh37106@gmail.com) 
