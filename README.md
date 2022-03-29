@@ -37,6 +37,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jh37106)](https://solved.ac/jh37106)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh37106)](https://solved.ac/jh37106)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walloonam)](https://github.com/walloonam/github-readme-stats)
 <br>
 
 
