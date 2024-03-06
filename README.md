@@ -1,4 +1,4 @@
-# JaeHun LEEM
+# JaeHun LIM
 ----------------------------------
 > Future White hacker<br>
 > Interested in everything on the computer.
@@ -10,9 +10,9 @@
 
 ## 🖥️ Current Interests
 ------------------------------------------
-- Computer security
-- Assembly language
-- Web hacking
+- Cloud computing
+- Infrastructure as Code
+- DevOps methodologies
 <br>
 
 
