@@ -23,7 +23,6 @@
 | **Education** | 2018. 3 ~ | computer science | **Sangmyung univ.** |
 <br>
 
-<br>
 
 ## ✔️ Languages
 ------------------------------------------
@@ -39,7 +38,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-red?style=plastic&logo=Jenkins)
 ![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-orange?style=plastic&logo=Amazon-AWS)
 <br>
-
+<br>
 
 ## 📝 Algorithm
 ------------------------------------------
