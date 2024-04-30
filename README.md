@@ -31,6 +31,11 @@
 ![HTML](https://img.shields.io/badge/HTML/CSS-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellowgreen?style=plastic&logo=HTML5&logoColor=white) 
 <br>
 
+## 기술스택
+![Jenkins](https://img.shields.io/badge/Jenkins-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-red?style=plastic&logo=Jenkins)
+![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-orange?style=plastic&logo=Amazon-AWS)
+
+
 
 ## 📝 Algorithm
 ------------------------------------------
