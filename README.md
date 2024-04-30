@@ -38,8 +38,12 @@
 <br><br>
 
 ## 📋 Project
-k8s & slack을 사용한 CI/CD 구측 프로젝트 [GitHub 레포지토리](https://github.com/walloonam/Toy_Project_02)
-<br>
+-----------------------------------------
+k8s & slack을 사용한 CI/CD 구측 프로젝트 [CI/CD 프로젝트](https://github.com/walloonam/Toy_Project_02)
+멋쟁이 사자처럼 중앙해커톤 [손에손잡고](https://github.com/walloonam/Hand_In_Hand_Backend)
+
+
+<br><br>
 
 
 ## 📝 Algorithm
