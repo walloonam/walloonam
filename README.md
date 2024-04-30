@@ -37,6 +37,10 @@
 <img alt="Beats" src="https://img.shields.io/badge/Beats-6E418C.svg?&style=for-the-badge&logo=elastic-stack&logoColor=white"/><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
 <br><br>
 
+## Project
+k8s & slack을 사용한 CI/CD 구측 프로젝트 [GitHub 레포지토리](https://github.com/walloonam/Toy_Project_02)
+
+
 
 ## 📝 Algorithm
 ------------------------------------------
