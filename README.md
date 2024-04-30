@@ -32,8 +32,8 @@
 
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 
-<img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=Ansible&logoColor=white"/><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white"/><img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571.svg?&style=for-the-badge&logo=kibana&logoColor=white"/><img alt="Beats" src="https://img.shields.io/badge/Beats-005571.svg?&style=for-the-badge&logo=elastic-stack&logoColor=white"/>
-<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
+<img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000.svg?&style=for-the-badge&logo=Ansible&logoColor=white"/><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white"/><img alt="Kibana" src="https://img.shields.io/badge/Kibana-009287.svg?&style=for-the-badge&logo=kibana&logoColor=white"/>
+<img alt="Beats" src="https://img.shields.io/badge/Beats-6E418C.svg?&style=for-the-badge&logo=elastic-stack&logoColor=white"/><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
 <br><br>
 
 
