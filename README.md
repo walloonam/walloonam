@@ -39,7 +39,7 @@
 
 ## 📋 Project
 k8s & slack을 사용한 CI/CD 구측 프로젝트 [GitHub 레포지토리](https://github.com/walloonam/Toy_Project_02)
-
+<br>
 
 
 ## 📝 Algorithm
